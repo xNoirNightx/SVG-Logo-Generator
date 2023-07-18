@@ -65,10 +65,10 @@ The following image shows the web application after I edited the code.
 ![Sample of Generated Logo](./)
 
 ## Credits
-- [W3School Canvas](https://www.w3schools.com/html/html5_canvas.asp)
-- [MDN Canvas ](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial)
-- [MDN Canvas - Draw Shapes ](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Drawing_shapes)
-- [](url)
+- [SVG Generator](https://www.softr.io/tools/svg-shape-generator)
+- [W3School](https://www.w3schools.com/graphics/svg_intro.asp)
+- [Youtube](https://www.youtube.com/watch?v=ZJSCl6XEdP8)
+- [Mdn](https://developer.mozilla.org/en-US/docs/Web/SVG)
 
 
 **Note**: User story and acceptance criteria was provided to me in class
