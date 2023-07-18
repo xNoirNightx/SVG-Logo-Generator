@@ -1,7 +1,8 @@
 const inquirer = require('inquirer');
 const { generateLogo } = require('./lib/generator');
+const { Triangle, Circle, Square, Splatter, Pentagon, Hexagon } = require('./lib/shapes');
 
-// prompt user 
+// prompt user
 function promptUser() {
   const questions = [
     {
@@ -18,7 +19,7 @@ function promptUser() {
       type: 'list',
       name: 'shapeType',
       message: 'Choose a shape for the logo:',
-      choices: ['Triangle', 'Circle', 'Square', 'Ellipse', 'Pentagon', 'Hexagon'],
+      choices: ['Triangle', 'Circle', 'Square', 'Splatter', 'Pentagon', 'Hexagon'],
     },
     {
       type: 'input',
