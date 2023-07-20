@@ -19,7 +19,7 @@ function promptUser() {
       type: 'list',
       name: 'shapeType',
       message: 'Choose a shape for the logo:',
-      choices: ['Triangle', 'Circle', 'Square', 'Splatter', 'Pentagon', 'Hexagon'],
+      choices: ['Triangle', 'Circle', 'Square', 'Pentagon', 'Hexagon'],
     },
     {
       type: 'input',
