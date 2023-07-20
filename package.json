@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "esm": "^3.2.25",
     "fs": "^0.0.1-security",
     "inquirer": "^9.2.8",
     "jest": "^29.6.1"
