@@ -5,11 +5,11 @@ Challenge10 Node.js command-line to generate a logo and save it as an SVG file.
 
 I was tasked with my tenth challenge to make a Logo SVG Generator.
 
-- 
-- 
-- 
-- 
-- 
+- learned how to generate svg images
+- learned to work more with npms 
+- learned to fixed errors
+- learned being sick makes catching up very hard ( hahah )
+- learned inquire versions matter or your code will note work
 
 **Note**: I followed the criteria below provided by the class instructors.
 
@@ -49,7 +49,7 @@ I was tasked with my tenth challenge to make a Logo SVG Generator.
  ## Usage
  - To use the Logo Generator, run the following command inside the "Root" folder:
  - node index.js
- - Follow [Video Demo]() if you need further assistance.
+ - Follow [Video Demo](https://www.dropbox.com/scl/fi/k6l4e1lo2vubc7euvi2gn/Challenge10.mp4?rlkey=xyvgpwatiecz1jwlmj3popnax&dl=0) if you need further assistance.
  - Answer the prompts with information about your project.
 
 
@@ -59,10 +59,8 @@ The following image shows the web application after I edited the code.
 
 **Note**: This image is a screen shot once I finished the assisnment.
 
-![Logo Generator](./)
+![Logo Generator](./examples/images/Screenshot%202023-07-20%20191452.png)
 
-**Note**: This image is a screen shot of the Logo ....................
-![Sample of Generated Logo](./)
 
 ## Credits
 - [SVG Generator](https://www.softr.io/tools/svg-shape-generator)
@@ -72,7 +70,7 @@ The following image shows the web application after I edited the code.
 
 
 **Note**: User story and acceptance criteria was provided to me in class
- UNB-VIRT-FSF-PT-04-2023-U-LOLC for Week 3 Challenge. 
+ UNB-VIRT-FSF-PT-04-2023-U-LOLC for Week 10 Challenge. 
 
 ## My Github
 
