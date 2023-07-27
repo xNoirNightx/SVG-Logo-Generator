@@ -60,6 +60,7 @@ The following image shows the web application after I edited the code.
 **Note**: This image is a screen shot once I finished the assisnment.
 
 ![Logo Generator](./examples/images/Screenshot%202023-07-20%20191452.png)
+![TEST PASS](./examples/images/screenshot2.png)
 
 
 ## Credits
